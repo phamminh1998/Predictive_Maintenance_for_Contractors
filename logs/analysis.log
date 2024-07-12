@@ -1,0 +1,10 @@
+2024-05-21 17:22:23,336:INFO:Starting the analysis pipeline.
+2024-05-21 17:22:49,811:INFO:All packages installed successfully.
+2024-05-21 17:22:49,812:INFO:File already exists. Skipping data cleaning.
+2024-05-21 17:22:49,883:INFO:File loaded successfully from ./agressively_cleaned_critical_analysis_df.csv
+2024-05-21 17:22:49,915:INFO:Number of cases with distinct dates for the same unit: 4
+2024-05-21 17:22:51,158:INFO:KMF analysis completed successfully.
+2024-05-21 17:22:54,118:INFO:CoxPH analysis completed successfully.
+2024-05-21 17:22:54,119:INFO:Analysis pipeline completed successfully.
+2024-05-21 17:22:54,401:INFO:Concordance Index: 0.935703214542345
+2024-05-21 17:22:54,401:INFO:Accuracy: 469 devices failed within the maintenance frequency, 28 devices failed within the predicted time to failure.
